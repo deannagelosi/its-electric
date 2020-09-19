@@ -1,13 +1,13 @@
 # PROG 01: Electric Time
 
-Brief description here
+It’s Electric! is a mobile app for people with multiple electric assist devices who 1) are looking up travel times and 2) if their device(s) can get them there.
 
 ## Author
 
-FirstName LastName (email@berkeley.edu)
+Deanna Gelosi (gelosi@berkeley.edu)
 
 ## Video Link
 
-youtube.com/yourLinkAddress
+[https://youtu.be/DcY0GljJb5g](https://youtu.be/DcY0GljJb5g)
 
 
