@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">electric-time-1</string>
+
+    <string-array name="modes">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Bamboo GTR 2in1</item>
+        <item>GeoBlade 500</item>
+        <item>Hovertrax Hoverboard</item>
+        <item>MotoTec Skateboard</item>
+        <item>OneWheel XR</item>
+        <item>Razor Scooter</item>
+        <item>Segway Ninebot S</item>
+        <item>Segway Ninebot S-PLUS</item>
+    </string-array>
+
+</resources>
